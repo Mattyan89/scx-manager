@@ -71,17 +71,17 @@ This is needed for the app to work properly</source>
 Questo è necessario affinchè l&apos;applicazione funzioni correttamente</translation>
     </message>
     <message>
-        <location filename="../src/schedext-window-internal.cpp" line="205"/>
+        <location filename="../src/schedext-window-internal.cpp" line="206"/>
         <source>Cannot disable scx_loader</source>
         <translation>Impossibile disabilitare scx_loader</translation>
     </message>
     <message>
-        <location filename="../src/schedext-window-internal.cpp" line="223"/>
+        <location filename="../src/schedext-window-internal.cpp" line="224"/>
         <source>Cannot get scx flags from scx_loader configuration!</source>
         <translation>Impossibile ottenere i flag dalla configurazione di scx_loader!</translation>
     </message>
     <message>
-        <location filename="../src/schedext-window-internal.cpp" line="259"/>
+        <location filename="../src/schedext-window-internal.cpp" line="260"/>
         <source>Cannot set default scx scheduler with mode! Scheduler %1 with mode %2</source>
         <translation>Impossibile impostare lo scheduler scx predefinito nella modalità selezionata! Scheduler %1 in modalità %2</translation>
     </message>
