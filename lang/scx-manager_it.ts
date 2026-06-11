@@ -38,13 +38,18 @@
         <source>Set sched-ext extra scheduler flags:</source>
         <translation>Imposta i flag aggiuntivi dello scheduler sched-ext:</translation>
     </message>
-    <message>
+        <message>
         <location filename="../src/schedext-window.ui" line="176"/>
+        <source>Cancel</source>
+        <translation>Annulla</translation>
+    </message>
+    <message>
+        <location filename="../src/schedext-window.ui" line="183"/>
         <source>Disable</source>
         <translation>Disabilita</translation>
     </message>
     <message>
-        <location filename="../src/schedext-window.ui" line="183"/>
+        <location filename="../src/schedext-window.ui" line="190"/>
         <source>Apply</source>
         <translation>Applica</translation>
     </message>
