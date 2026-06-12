@@ -68,7 +68,7 @@ Is it working?
 This is needed for the app to work properly</source>
         <translation>Impossibile ottenere informazioni da scx_loader!
 È in funzione?
-Questo è necessario affinchè l&apos;applicazione funzioni correttamente</translation>
+Questo è necessario affinché l&apos;applicazione funzioni correttamente</translation>
     </message>
     <message>
         <location filename="../src/schedext-window-internal.cpp" line="206"/>
